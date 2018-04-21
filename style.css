@@ -1,0 +1,51 @@
+*{
+  margin:0;
+  padding: 0;
+  border: 0;
+}
+
+.container {
+  margin: 10px auto;
+  height: 600px;
+  width: 1000px;
+  padding: 5px;
+  border: 5px dashed rgb(164, 226, 45);
+  color: white;
+
+}
+.uno {
+  height: 100px;
+  width: 1000px;
+  text-align: center;
+  font-family: "Arial";
+  font-style: italic;
+  padding: 4px;
+  background-color: rgb(240, 189, 48);
+  opacity: 1;
+  position: relative;
+}
+.dos {
+  height: 100px;
+  width: 1000px;
+  text-align: center;
+  padding: 4px;
+  background-color: rgb(130, 214, 212);
+
+}
+
+.tres {
+  height: 50px;
+  width: 500px;
+  text-align: center;
+  padding: 4px;
+  background-color: rgb(255, 110, 214);
+  float: left;
+}
+.cuatro {
+  height: 50px;
+  width: 10px;
+  text-align: center;
+  padding: 4px;
+  background-color: rgb(255, 213, 85);
+  float: left;
+}
